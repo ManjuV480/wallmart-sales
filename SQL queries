@@ -1,6 +1,8 @@
+-- create database
 create database if not exists wallmartsalesdata;
 use wallmartsalesdata;
 
+-- create table
 create table if not exists sales(
 	invoice_id varchar(30) not null primary key,
     branch varchar(5) not null,
