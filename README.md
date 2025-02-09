@@ -1,4 +1,4 @@
-# Walmart-Sales-Data-Analysis-With-MySQL
+                         Walmart-Sales-Data-Analysis-With-MySQL
 # About
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. 
 # Purpose of the project
